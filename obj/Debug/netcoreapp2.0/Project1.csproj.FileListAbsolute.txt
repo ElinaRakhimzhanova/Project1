@@ -8,3 +8,13 @@
 /Users/apple/Project1/obj/Debug/netcoreapp2.0/Project1.AssemblyInfo.cs
 /Users/apple/Project1/obj/Debug/netcoreapp2.0/Project1.dll
 /Users/apple/Project1/obj/Debug/netcoreapp2.0/Project1.pdb
+/Users/apple/Project1 — копия/bin/Debug/netcoreapp2.0/Project1.deps.json
+/Users/apple/Project1 — копия/bin/Debug/netcoreapp2.0/Project1.runtimeconfig.json
+/Users/apple/Project1 — копия/bin/Debug/netcoreapp2.0/Project1.runtimeconfig.dev.json
+/Users/apple/Project1 — копия/bin/Debug/netcoreapp2.0/Project1.dll
+/Users/apple/Project1 — копия/bin/Debug/netcoreapp2.0/Project1.pdb
+/Users/apple/Project1 — копия/obj/Debug/netcoreapp2.0/Project1.csproj.CoreCompileInputs.cache
+/Users/apple/Project1 — копия/obj/Debug/netcoreapp2.0/Project1.AssemblyInfoInputs.cache
+/Users/apple/Project1 — копия/obj/Debug/netcoreapp2.0/Project1.AssemblyInfo.cs
+/Users/apple/Project1 — копия/obj/Debug/netcoreapp2.0/Project1.dll
+/Users/apple/Project1 — копия/obj/Debug/netcoreapp2.0/Project1.pdb
